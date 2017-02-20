@@ -19,7 +19,7 @@ body
 
 #calculator input#result
   { color: white;
-    background: blue;
+    background: black;
     font-size: 42px;
     text-align: right;
     padding: 10px;
